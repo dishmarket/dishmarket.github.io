@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dishmarket.github.io/sitemap-index.xml
